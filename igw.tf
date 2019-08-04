@@ -8,3 +8,4 @@ resource "aws_internet_gateway" "gw" {
       Dept = "${var.Dept}"
   }
 }
+
