@@ -8,3 +8,4 @@ instance_type           = "t2.micro"
 key_name                = "MAC"
 region                  = "us-east-1"
 
+
