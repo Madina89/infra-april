@@ -6,7 +6,7 @@ variable "ami" {}
 variable "instance_type" {}
 variable "key_name" {}
 variable "region" {}
-variable "appname" {}
+#variable "appname" {}
 variable "min_app_size" {}
 variable "max_app_size" {}
 variable "desired_app_capacity" {}
